@@ -1,0 +1,13 @@
+body {
+	background: linear-gradient(to right, #283048, #859398);
+	color: #FFE47A;
+	text-align: center;
+}
+form {
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+}
+form > * {
+	padding: 10px;
+}
